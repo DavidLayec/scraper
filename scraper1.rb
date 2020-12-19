@@ -7,7 +7,7 @@ def scrape_mairie_urls
   pages_urls = []
   i = 1
   until i > 34
-    pages_url = "https://www.emploi-collectivites.fr/esp_entreprises/annuaire_entreprises/mairie-collectivite-searchresult.asp?motclef=&qu=A&regID=-1&Page=#{i+=1}"
+    pages_url = "xx"
     pages_urls << pages_url
   end
 
